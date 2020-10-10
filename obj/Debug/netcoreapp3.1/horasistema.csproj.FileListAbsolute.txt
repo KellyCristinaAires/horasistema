@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\horasistema\bin\Debug\netcoreapp3.1\horasistema.exe
+C:\Users\kelly\Documents\atividadespc1\horasistema\bin\Debug\netcoreapp3.1\horasistema.deps.json
+C:\Users\kelly\Documents\atividadespc1\horasistema\bin\Debug\netcoreapp3.1\horasistema.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\horasistema\bin\Debug\netcoreapp3.1\horasistema.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\horasistema\bin\Debug\netcoreapp3.1\horasistema.dll
+C:\Users\kelly\Documents\atividadespc1\horasistema\bin\Debug\netcoreapp3.1\horasistema.pdb
+C:\Users\kelly\Documents\atividadespc1\horasistema\obj\Debug\netcoreapp3.1\horasistema.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\horasistema\obj\Debug\netcoreapp3.1\horasistema.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\horasistema\obj\Debug\netcoreapp3.1\horasistema.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\horasistema\obj\Debug\netcoreapp3.1\horasistema.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\horasistema\obj\Debug\netcoreapp3.1\horasistema.dll
+C:\Users\kelly\Documents\atividadespc1\horasistema\obj\Debug\netcoreapp3.1\horasistema.pdb
+C:\Users\kelly\Documents\atividadespc1\horasistema\obj\Debug\netcoreapp3.1\horasistema.genruntimeconfig.cache
